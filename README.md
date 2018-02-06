@@ -21,7 +21,7 @@ Add Reddit client details to .env file
 
 Stream comments from a specific subreddit for: !{TICKER} request and reply with the current USD value.
 
-E.g
+E.G
 ```
 !ETH
 ```
