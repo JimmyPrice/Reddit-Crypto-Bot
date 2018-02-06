@@ -19,11 +19,11 @@ Add Reddit client details to .env file
 
 ### Reddit usage
 
-Stream comments from a specific subreddit for: !{TICKER} request and reply with the current USD value.
+Stream comments from a specific subreddit and scan for !{TICKER} request, then reply with the current USD value.
 
 E.G
 ```
-Give me the price of !ETH
+Give me the price of !ETH as well as !BTC
 ```
 
 ## Built With
