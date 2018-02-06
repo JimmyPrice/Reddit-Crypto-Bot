@@ -23,7 +23,7 @@ Stream comments from a specific subreddit for: !{TICKER} request and reply with 
 
 E.G
 ```
-!ETH
+Give me the price of !ETH
 ```
 
 ## Built With
