@@ -23,7 +23,7 @@ Stream comments from a specific subreddit and scan for !{TICKER} request, then r
 
 E.G
 ```
-Give me the price of !ETH as well as !BTC
+I would like the price of !ETH as well as !BTC
 ```
 
 ## Built With
