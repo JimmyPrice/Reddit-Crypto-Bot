@@ -1,6 +1,6 @@
 # Crypto Price Bot for Reddit
 
-A simple bot to supply live Coin Market Cap prices to Reddit comments on request.
+A simple bot that returns current cryptocurrency prices from Coin Market Cap, to Reddit comments on request.
 
 
 ### Prerequisites & dependencies
